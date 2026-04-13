@@ -1,0 +1,14 @@
+C:\Users\1646186\Desktop\aula13\bin\Debug\net9.0\aula13.exe
+C:\Users\1646186\Desktop\aula13\bin\Debug\net9.0\aula13.deps.json
+C:\Users\1646186\Desktop\aula13\bin\Debug\net9.0\aula13.runtimeconfig.json
+C:\Users\1646186\Desktop\aula13\bin\Debug\net9.0\aula13.dll
+C:\Users\1646186\Desktop\aula13\bin\Debug\net9.0\aula13.pdb
+C:\Users\1646186\Desktop\aula13\obj\Debug\net9.0\aula13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1646186\Desktop\aula13\obj\Debug\net9.0\aula13.AssemblyInfoInputs.cache
+C:\Users\1646186\Desktop\aula13\obj\Debug\net9.0\aula13.AssemblyInfo.cs
+C:\Users\1646186\Desktop\aula13\obj\Debug\net9.0\aula13.csproj.CoreCompileInputs.cache
+C:\Users\1646186\Desktop\aula13\obj\Debug\net9.0\aula13.dll
+C:\Users\1646186\Desktop\aula13\obj\Debug\net9.0\refint\aula13.dll
+C:\Users\1646186\Desktop\aula13\obj\Debug\net9.0\aula13.pdb
+C:\Users\1646186\Desktop\aula13\obj\Debug\net9.0\aula13.genruntimeconfig.cache
+C:\Users\1646186\Desktop\aula13\obj\Debug\net9.0\ref\aula13.dll
